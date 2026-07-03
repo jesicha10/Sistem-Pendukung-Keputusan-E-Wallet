@@ -41,7 +41,7 @@ Proyek ini bertujuan untuk membantu pengguna memilih aplikasi dompet digital (e-
 
 Metode **SMART** dipilih karena sederhana, transparan, dan mudah diaudit. Aplikasi ini telah divalidasi melalui **User Acceptance Testing (UAT)** dengan skor kepuasan **4,28/5 (85,5%)**.
 
-### 🔗 Link Penting
+###  Link Penting
 - **Demo Aplikasi**: [https://spkewallet.yaelahver.dev](https://spkewallet.yaelahver.dev)
 - **Repository GitHub**: [https://github.com/jesicha10/Sistem-Pendukung-Keputusan-E-Wallet](https://github.com/jesicha10/Sistem-Pendukung-Keputusan-E-Wallet)
 
@@ -62,7 +62,7 @@ Metode **SMART** dipilih karena sederhana, transparan, dan mudah diaudit. Aplika
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### A. Backend (Laravel Ecosystem)
 
