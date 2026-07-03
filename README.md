@@ -1,4 +1,4 @@
-# 🏆 Sistem Pendukung Keputusan Pemilihan E-Wallet Terbaik (Metode SMART)
+#  Sistem Pendukung Keputusan Pemilihan E-Wallet Terbaik (Metode SMART)
 
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
@@ -9,7 +9,7 @@ Sistem Pendukung Keputusan (SPK) berbasis web untuk menentukan **E-Wallet terbai
 
 ---
 
-## 📋 Daftar Isi
+##  Daftar Isi
 
 - [Tentang Proyek](#-tentang-proyek)
 - [Fitur Utama](#-fitur-utama)
@@ -27,7 +27,7 @@ Sistem Pendukung Keputusan (SPK) berbasis web untuk menentukan **E-Wallet terbai
 
 ---
 
-## 🚀 Tentang Proyek
+##  Tentang Proyek
 
 Proyek ini bertujuan untuk membantu pengguna memilih aplikasi dompet digital (e-wallet) terbaik secara objektif berdasarkan **5 kriteria** utama:
 
@@ -47,7 +47,7 @@ Metode **SMART** dipilih karena sederhana, transparan, dan mudah diaudit. Aplika
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 | Fitur | Deskripsi |
 |-------|-----------|
@@ -100,7 +100,7 @@ Metode **SMART** dipilih karena sederhana, transparan, dan mudah diaudit. Aplika
 
 ---
 
-## 📁 Struktur Proyek
+##  Struktur Proyek
 
 ```
 Sistem-Pendukung-Keputusan-E-Wallet/
@@ -155,7 +155,7 @@ Sistem-Pendukung-Keputusan-E-Wallet/
 
 ---
 
-## 🗄️ Database & ERD
+##  Database & ERD
 
 ### Entity Relationship Diagram (ERD)
 
@@ -253,7 +253,7 @@ public function kriteria()
 
 ---
 
-## 🔗 API Endpoint
+##  API Endpoint
 
 Sistem ini menggunakan **Laravel Routing** untuk mendefinisikan semua endpoint. Berikut adalah daftar route yang terdaftar di `routes/web.php`:
 
@@ -308,7 +308,7 @@ Route::get('/ranking/export-pdf', [RankingController::class, 'exportPdf'])->name
 
 ---
 
-## 🧮 Implementasi Metode SMART
+##  Implementasi Metode SMART
 
 ### Rumus yang Digunakan
 
@@ -480,7 +480,7 @@ public function exportPdf()
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 > **Catatan:** Untuk melihat screenshot, silakan buka folder `screenshots/` di repository ini.
 
@@ -595,7 +595,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 📊 Hasil User Acceptance Testing (UAT)
+##  Hasil User Acceptance Testing (UAT)
 
 ### Rata-rata Skor (Skala 1-5, N=8 Responden)
 
@@ -627,13 +627,13 @@ Rata-rata skor keseluruhan sebesar 4,28 dari 5 (85,5%) termasuk dalam kategori i
 
 ---
 
-## 📝 Lisensi
+##  Lisensi
 
 Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-## 🙏 Ucapan Terima Kasih
+##  Ucapan Terima Kasih
 
 - **Ir. Gede Surya Mahendra, S.Pd., M.Kom.** - Dosen Pengampu Mata Kuliah Sistem Pendukung Keputusan
 - **Universitas Pendidikan Ganesha** - Tempat penelitian dan pengembangan
