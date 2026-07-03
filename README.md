@@ -495,7 +495,7 @@ public function exportPdf()
 
 ---
 
-## 🚀 Cara Instalasi & Menjalankan
+##  Cara Instalasi & Menjalankan
 
 ### Prasyarat
 - PHP 8.2+
@@ -569,7 +569,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 📖 Cara Menggunakan
+##  Cara Menggunakan
 
 ### 1. Tambahkan Data Kriteria
 - Buka menu **Kriteria** → Klik **Tambah Kriteria**
