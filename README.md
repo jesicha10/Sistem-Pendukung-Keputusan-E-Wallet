@@ -487,7 +487,7 @@ public function exportPdf()
 | Halaman | Screenshot |
 |---------|------------|
 | Dashboard | ![Dashboard](screenshots/1-dashboard.png.png) |
-| Data Kriteria | ![Kriteria](screenshots/kriteria.png) |
+| Data Kriteria | ![Kriteria](screenshots/2-kriteria.png) |
 | Data Alternatif | ![Alternatif](screenshots/alternatif.png) |
 | Input Penilaian | ![Penilaian](screenshots/penilaian.png) |
 | Perhitungan SMART | ![SMART](screenshots/smart.png) |
